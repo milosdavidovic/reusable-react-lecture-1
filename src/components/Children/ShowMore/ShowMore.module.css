@@ -1,0 +1,17 @@
+.container {
+  margin: 20px;
+}
+
+.contentWrapper {
+  width: 30%;
+  overflow: hidden;
+  transition: height 0.2s;
+}
+
+.button {
+  cursor: pointer;
+  margin-left: -6px;
+  background: transparent;
+  border: none;
+  color: blue;
+}
